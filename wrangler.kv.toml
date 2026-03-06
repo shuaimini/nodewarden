@@ -12,4 +12,3 @@ database_name = "nodewarden-db"
 
 [[kv_namespaces]]
 binding = "ATTACHMENTS_KV"
-id = "placeholder"
